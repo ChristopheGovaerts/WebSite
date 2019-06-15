@@ -1,2 +1,2 @@
 # WebSite
-Collection of file for use in test personal website
+Collection of files for use in test personal website
